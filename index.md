@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/M-Beukes/coursera-test/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<a href="https://vimeo.com/327393999" title="OCSM Fundraiser"><img src="https://images.unsplash.com/photo-1627301189280-a994f2b52b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80" alt="Alternate Text" /></a>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
